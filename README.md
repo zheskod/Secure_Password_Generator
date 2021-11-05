@@ -13,3 +13,13 @@ Educational mini-project<br><br>
 Цикл for;<br>
 Написание пользовательских функций;<br>
 Работа с модулем random для генерации случайных чисел.<br>
+
+<b>Заголовок программы</b><br><br>
+Подключите модуль random;<br>
+Создайте строковые константы:<br>
+digits: 0123456789;<br>
+lowercase_letters: abcdefghijklmnopqrstuvwxyz;<br>
+uppercase_letters: ABCDEFGHIJKLMNOPQRSTUVWXYZ;<br>
+punctuation: !#$%&*+-=?@^_.<br>
+Создайте переменную chars = '', которая будет содержать все символы, которые могут быть в генерируемом пароле.<br><br>
+
