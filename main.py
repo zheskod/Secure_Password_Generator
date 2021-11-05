@@ -41,5 +41,6 @@ if symbol_password == 'ДА':
 
 ambiguous_char = input('Исключить не однозначные символы? (il1Lo0O) (ДА/НЕТ): ')
 
+print('А вот и ваши пароли:')
 for _ in range(quantity):
     generate_password(len_password, chars)
